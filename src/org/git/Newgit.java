@@ -7,6 +7,14 @@ public class Newgit {
 		System.out.println("hi git");
 		System.out.println("hi git HOW ARE YOU");
 		System.out.println("hi git you and me");
+	
+	{
+		System.out.println("HI");
+	}
+	
+	{
+			System.out.println("hi git");
 	}
 
+	}
 }
